@@ -36,6 +36,10 @@ https://drive.google.com/file/d/1y53VKHAkIuSRMyd8HDJ573DiXr7_4V9h/view?usp=shari
 You have to click on Recommend for movies to get recommended. Additionally, you can get recommendations by year, genre as well as user ratings.
 So its a hybrid mode recommendation engine.
 
+[![website](./img/ss5.png)]()
+
+You can also Login/Register to our website. And If you choose to Register, you can also add a dp to your profile.
+
 2. This Shows the Bucket-list Page
 [![website](./img/ss2.png)]()
 

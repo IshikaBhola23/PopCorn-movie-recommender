@@ -19,6 +19,9 @@ It also uses a searching algorithm which effectively guide you to find the perfe
 The Dataset used is a subset of TMDb movies-dataset as well as Imdb Dataset. The datasets, being larger files, have been uploaded on a drive of which the link has been attached. 
 
 And similarity.pkl file which stores the vectorization and similarity points for movies, has also been uploaded on the drive of which the link has been attached.
+
+https://drive.google.com/file/d/1-Njc5E-KZ_WxEWbrAQbyJVjJlqYe8o18/view?usp=sharing
+
 ## Deployment
 
 All the required dependencies are listed in the requirements.txt file To install type the following command

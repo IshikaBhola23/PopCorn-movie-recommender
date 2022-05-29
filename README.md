@@ -22,6 +22,10 @@ And similarity.pkl file which stores the vectorization and similarity points for
 
 https://drive.google.com/file/d/1-Njc5E-KZ_WxEWbrAQbyJVjJlqYe8o18/view?usp=sharing
 
+https://drive.google.com/file/d/1iH9sn3QZC1ipRdSZyexMUYHU-VQBGZLw/view?usp=sharing
+
+
+
 ## Deployment
 
 All the required dependencies are listed in the requirements.txt file To install type the following command

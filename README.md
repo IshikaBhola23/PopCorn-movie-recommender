@@ -52,8 +52,8 @@ For support, email ishikabhola23@gmail.com.
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]
-[![website](./img/globe-dark.svg)]
+[![website](./img/globe-light.svg)]()
+[![website](./img/globe-dark.svg)]()
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)]
 [![website](./img/youtube-dark.svg)]

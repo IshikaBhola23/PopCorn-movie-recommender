@@ -36,6 +36,11 @@ https://drive.google.com/file/d/1y53VKHAkIuSRMyd8HDJ573DiXr7_4V9h/view?usp=shari
 You have to click on Recommend for movies to get recommended. Additionally, you can get recommendations by year, genre as well as user ratings.
 So its a hybrid mode recommendation engine.
 
+2. This Shows the Bucket-list Page
+[![website](./img/ss2.png)]()
+
+One of the most important part of Popcorn Recommender is Bucket-List where you can watch the top rated movies in the bucket list of our users as well as add to yiur watch later or Bucket list.
+
 
 ## Deployment
 

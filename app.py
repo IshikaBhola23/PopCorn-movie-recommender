@@ -82,7 +82,7 @@ if rad=="Home":
         query2 = "SELECT * FROM orig_list where genres='Romance' LIMIT 5"
         Romantic = pysqldf(query2)
         # st.write(Romantic)
-        years = st.sidebar.slider('Top Movies By Year:', min_value=1980, max_value=2017, value=1980, step=1)
+        years = st.sidebar.slider('Top Movies By Year:', min_value=1980, max_value=2017, value=2000, step=1)
         # query7 = "Select * FROM year_list WHERE YEAR==@years LIMIT 5"
         # Years = pysqldf(query7)
         # st.write(Years)

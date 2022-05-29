@@ -28,8 +28,12 @@ https://drive.google.com/file/d/1iH9sn3QZC1ipRdSZyexMUYHU-VQBGZLw/view?usp=shari
 
 https://drive.google.com/file/d/1y53VKHAkIuSRMyd8HDJ573DiXr7_4V9h/view?usp=sharing
 
+## Website
 
-[![website](./img/ss1.png)]
+So the Home Page of the website looks like this:
+[![website](./img/ss1.png)]()
+
+You have to click on Recommend for movies to get recommended.
 
 
 ## Deployment

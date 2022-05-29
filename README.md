@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1iH9sn3QZC1ipRdSZyexMUYHU-VQBGZLw/view?usp=shari
 https://drive.google.com/file/d/1y53VKHAkIuSRMyd8HDJ573DiXr7_4V9h/view?usp=sharing
 
 ## Website
-All the features added relate to recmmendation engine and are given to provide you with the best recommendations and brighten your day.
+All the features added relate to recmmendation engine and are given to provide you with the best recommendations and brighten your day🌟🌟.
 There are many features of which some are shown below:
 
 1. So the Home Page of the website looks like this:

@@ -54,7 +54,7 @@ Another important feature of Popcorn is Ratin-O-Meter. Here you can give ratings
 
 [![website](./img/ss4.png)]()
 
-You can also get ratings of various movies given by users and popularity taken out by us out of 100 and in this way you can select the best movie for yourself.
+You can also get ratings of various movies given by users and popularity taken out by us out of 100 and in this way you can select the best movie for yourself🌝🌝. That is so cool.
 
 4. Know More About me and the Project
 [![website](./img/ss6.png)]()

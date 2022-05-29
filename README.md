@@ -33,7 +33,8 @@ https://drive.google.com/file/d/1y53VKHAkIuSRMyd8HDJ573DiXr7_4V9h/view?usp=shari
 So the Home Page of the website looks like this:
 [![website](./img/ss1.png)]()
 
-You have to click on Recommend for movies to get recommended.
+You have to click on Recommend for movies to get recommended. Additionally, you can get recommendations by year, genre as well as user ratings.
+So its a hybrid mode recommendation engine.
 
 
 ## Deployment

@@ -59,7 +59,7 @@ You can also get ratings of various movies given by users and popularity taken o
 4. Know More About me and the Project
 [![website](./img/ss6.png)]()
 
-So what are you waiting for, go to our website, get recommendations, give rating and reviews, make your bucket list, share it with us, amd enjoy with the movies at the fullest. Ok Bye, I have to get recommended by Popcorn and watch the best movie for myself.
+So what are you waiting for, go to our website, get recommendations, give rating and reviews, make your bucket list, share it with us, amd enjoy with the movies at the fullest. Ok Bye, I have to get recommended by Popcorn and watch the best movie for myself🌚🌚.
 
 ## Deployment
 

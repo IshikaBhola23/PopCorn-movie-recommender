@@ -49,3 +49,20 @@ For support, email ishikabhola23@gmail.com.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I like to draw and play guitar/drums
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)]
+[![website](./img/globe-dark.svg)]
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)]
+[![website](./img/youtube-dark.svg)]
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)]
+[![website](./img/twitter-dark.svg)]
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)]
+[![website](./img/linkedin-dark.svg)]
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)]
+[![website](./img/instagram-dark.svg)]

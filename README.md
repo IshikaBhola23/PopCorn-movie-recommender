@@ -44,3 +44,8 @@ After installing all the dependecies using, To deploy this project run
 ## Support
 
 For support, email ishikabhola23@gmail.com.
+
+## I'm a student at Bits Hyderabad!!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I like to draw and play guitar/drums
